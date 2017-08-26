@@ -1,0 +1,8 @@
+{
+  "name": "Essential Utilities",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "short_name": "EUPWA",
+  "description": "Essential utilities"
+}
